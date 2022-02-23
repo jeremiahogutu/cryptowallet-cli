@@ -56,7 +56,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@binance-chain/javascript-sdk": "^4.1.1",
+    "@binance-chain/javascript-sdk": "^4.2.0",
     "@harmony-js/account": "^0.1.57",
     "@yerofey/dogecoin-bip84": "^0.0.5",
     "@yerofey/litecoin-bip84": "^0.0.5",
